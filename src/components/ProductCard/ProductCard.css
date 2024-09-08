@@ -1,0 +1,29 @@
+.product_item {
+    padding: 20px;
+    border-radius: 10px;
+    display: flex;
+    box-shadow: 15px 12px 20px 0px rgb(0 0 0 / 11%);
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    text-align: left;
+}
+.strike{
+    text-align: left;
+    width: 100%;
+    color: gray;
+    text-decoration: line-through;
+}
+.sale_price{
+    width: 100%;
+    font-size: 18px;
+}
+.product_item img{
+    width: 100%;
+    height: 170px;
+    object-fit: cover;
+    background: #efefef;
+    border-radius: 5px;
+    border: none;
+}

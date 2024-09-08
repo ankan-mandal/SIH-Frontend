@@ -1,0 +1,40 @@
+.admin{
+    text-align: center;
+}
+.admin_navbar{
+    display: flex;
+    justify-content: center;
+    gap: 28px;
+}
+.admin_nav_box{
+    border: 1px solid #dbdbdb;
+    padding: 10px 10px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #f7f7f7;
+    flex-direction: column;
+}
+.admin_nav_box svg {
+    width: 26px;
+}
+/* --------------------------- */
+.product_box{
+    display: flex;
+    height: 100px;
+    border: 1px solid #dddddd;
+    margin: 20px 0px;
+    justify-content: space-between;
+    border-radius: 8px;
+    align-items: center;
+    padding: 0 10px;
+    gap: 30px;
+    text-align: left;
+}
+.product_box img {
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+    border-radius: 8px;
+}

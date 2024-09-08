@@ -1,0 +1,10 @@
+.single_order{
+
+}
+.detail_content{
+    border: 1px solid #dbdbdb;
+    margin: 25px 0;
+    padding: 15px;
+    text-align: left;
+    border-radius: 8px;
+}

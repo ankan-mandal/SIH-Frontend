@@ -1,0 +1,11 @@
+.order_success{
+    margin: 100px 0;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+    text-align: center;
+}
+.order_success img {
+    width: 120px;
+}

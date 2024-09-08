@@ -1,0 +1,11 @@
+.cart_heading {
+    text-align: left;
+}
+.cart_heading h2{
+    color: green;
+    margin-top: -20px;
+}
+.small_gray_text{
+    color:  gray;
+    text-align: left;
+}

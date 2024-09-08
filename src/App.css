@@ -1,0 +1,16 @@
+.container {
+  max-width: 480px;
+  border: 1px solid rgb(235, 235, 235);
+  margin: 0 auto;
+  margin-bottom: 100px;
+  border-bottom: none;
+}
+.header_bg{
+  background-image: url("./assets/bg-cover.png");
+  background-size: 480px;
+  height: 81px;
+  position: relative;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
